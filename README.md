@@ -348,6 +348,7 @@ Clean-room rewrites and buildable research forks.
 | Repository | Description |
 |:-----------|:------------|
 | [**chauncygu/collection-claude-code-source-code**](https://github.com/chauncygu/collection-claude-code-source-code) | Meta-collection of community Claude Code source artifacts -- includes claw-code (Rust port), nano-claude-code (Python), and the extracted original source archive. |
+| [**agentforce314/clawcodex**](https://github.com/agentforce314/clawcodex) | ClawCodex — production-oriented Python rebuild of Claude Code: real architecture, reliable CLI agent, multi-LLM provider support. |
 | [**777genius/claude-code-working**](https://github.com/777genius/claude-code-working) | Working reverse-engineered CLI. Runnable with Bun, 450+ chunk files, 31 feature flags polyfilled. |
 | [**T-Lab-CUHKSZ/claude-code**](https://github.com/T-Lab-CUHKSZ/claude-code) | CUHK-Shenzhen buildable research fork — reconstructed build system from raw TypeScript snapshot. |
 | [**ruvnet/open-claude-code**](https://github.com/ruvnet/open-claude-code) | Nightly auto-decompile rebuild — 903+ tests, 25 tools, 4 MCP transports, 6 permission modes. |
